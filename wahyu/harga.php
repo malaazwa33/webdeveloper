@@ -47,7 +47,18 @@
     <tr>
       <th scope="row"><?php echo $i?></th>
       <td>Mark</td>
-      <td class="bg-primary"><?php if($i == 10 ){
+      <td <?php 
+      if ($i == 10 ) {
+        echo  "class='bg-primary'";
+      } elseif ($i == 12) {
+        echo  "class='bg-danger'";
+      }  elseif ($i == 14 ) {
+        echo  "class='bg-info'";
+      } else {
+       
+      }
+      
+      ?> ><?php if($i == 10 ){
             echo "kosong";
       }else{
       echo "tersedia";
