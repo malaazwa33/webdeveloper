@@ -88,15 +88,9 @@
             <td>    <a class="link" href="index.php">Kembali</a></td>
             </tr>
 
-            <div>
-            <ul>
-            <li style="color: rgb(0,0,0); font-weight:bold">Don't forget to follow me</li>
-            <br>
-            <a class="icon" href="https://www.instagram.com/arsksuma_/" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
-            </ul>
-            </div>
-
               </center>
+              <div><a href="http://instagram.com/arsksuma_"><img style="margin:5px" src="[img/Instagram-icon.png]" width="30" height="30" alt="Instagram"></a>
+             <a href="http://youtube.com/user/" ><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="YouTube"></a></div>
 
           
            
