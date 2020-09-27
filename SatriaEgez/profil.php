@@ -11,7 +11,11 @@
     <title>MY PROFIL</title>
     <style>
       body {
-        background-color: #e8e8e8;
+        background-image: url(image/bg-01.jpg);
+      }
+      h3{
+        font-family: "Times New Roman", Times, serif;
+      
       }
       .kartu {
         width: 800px;
