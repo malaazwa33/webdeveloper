@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 
-    <title>Profil</title>
+    <title>MY PROFIL</title>
     <style>
       body {
         background-color: #e8e8e8;
