@@ -11,7 +11,7 @@
     <title>Profile</title>
     <style>
       body {
-        background-image: url(img/3.jpg);
+        background-image: url(img/4.jpg);
       }
       .kartu {
         color:#00FFFF;
