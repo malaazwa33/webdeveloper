@@ -11,7 +11,7 @@
     <title>Profile</title>
     <style>
       body {
-        background-color:"lightblue";
+        background-color:"#00FF00";
       }
       .kartu {
         width: 600px;
