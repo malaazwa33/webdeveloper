@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
 
-    <title>MY PROFIL</title>
+    <title>My Profil</title>
     <style>
       body {
         background-image: url(image/bg-01.jpg);
@@ -35,6 +35,25 @@
 .biodata {
     margin-top: 50px;
 }
+#socialicons {
+ text-align: center;
+}
+#socialicons .icon{
+ color: MAIN_COLOR;
+ border: 1px solid #CFCFCF;
+ display: inline-block;
+ font-size: 18px;
+ width: 34px;
+ height: 34px;
+ line-height: 34px;
+ text-align: center;
+ vertical-align: middle;
+   margin: 0 1px 8px;
+}
+#socialicons .icon:hover{
+ color: HOVER_COLOR;
+ border: 1px solid #CFCFCF;
+}
     </style>
   </head>
   <center>
@@ -59,52 +78,46 @@
         <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
           <tbody>
             <tr>
-              <td width="25%" valign="top" class="textt">Nama</td>
+              <td width="25%" valign="top" class="textt"><b>Nama</b></td>
                 <td width="2%">:</td>
                 <td style="color: rgb(118, 157, 29); font-weight:bold">Satriawan</td>
             </tr>
           <tr>
-              <td class="textt">Jenis Kelamin</td>
+              <td class="textt"><b>Jenis Kelamin</b></td>
                 <td>:</td>
                 <td>Laki-Laki</td>
             </tr>
           <tr>
-              <td class="textt">Tempat Lahir</td>
+              <td class="textt"><b>Tempat Lahir</b></td>
                 <td>:</td>
                 <td>Kebun Baru, Lombok NTB</td>
             </tr>
           <tr>
-              <td class="textt">Tanggal Lahir</td>
+              <td class="textt"><b>Tanggal Lahir</b></td>
                 <td>:</td>
                 <td>08 Januari 2002</td>
             </tr>
           <tr>
-              <td class="textt">Fakultas</td>
+              <td class="textt"><b>Fakultas</b></td>
                 <td>:</td>
                 <td>Teknik</td>
             </tr>
           <tr>
-              <td valign="top" class="textt">Prodi</td>
+              <td valign="top" class="textt"><b>Program Studi</b></td>
                 <td valign="top">:</td>
                 <td>Teknik Informatika</td>
             </tr>
             <div  id="socialicons">
-            <ul>
-            <li>
-            <a class="icon" href="https://m.facebook.com/profile.php" title="Follow with Facebook" target="_blank"><i class="fa fa-facebook" ></i></a>
-            <a class="icon" href="https://Instagram.com/satriaegez" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
-            <a class="icon" href="https://web.whatsapp.com/ "title="Follow with WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a>
-            </li>
-            </ul>
+           
+         <b>  Follow With </b>  <a class="icon" href="https://m.facebook.com/profile.php" title="Follow with Facebook" target="_blank"><i class="fa fa-facebook" ></i></a>
+             <a class="icon" href="https://Instagram.com/satriaegez" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+          <a class="icon" href="https://web.whatsapp.com/ "title="Follow with WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a>
+           
             </div> 
             <tr>
             <td>    <a class="link" href="index.php">Kembali</a></td>
             </tr>
 
-              </center>
-
-          
-           
-                
+              </center>  
               </body>
               </html>
