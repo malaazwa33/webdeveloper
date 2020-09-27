@@ -84,16 +84,17 @@
                 <td valign="top" style="color: rgb(0,0,0); font-weight:bold">:</td>
                 <td style="color: rgb(0,0,0); font-weight:bold">Teknik Informatika</td>
             </tr>
-            <div>
-            <tr>
-            <td>Don't forget to follow me</td>
-            <br>
-            <a class="icon" href="https://www.instagram.com/arsksuma_/" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
-            </tr>
-            </div>
             <tr>
             <td>    <a class="link" href="index.php">Kembali</a></td>
             </tr>
+
+            <div>
+            <ul>
+            <li style="color: rgb(0,0,0); font-weight:bold">Don't forget to follow me</li>
+            <br>
+            <a class="icon" href="https://www.instagram.com/arsksuma_/" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+            </ul>
+            </div>
 
               </center>
 
