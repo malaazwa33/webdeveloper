@@ -34,7 +34,7 @@
   </head>
   <center>
   <body>
-       <h3 class="text-center text-success mt-3">BIODATA</h3></a>
+       <h3 class="text-center text-success mt-3">MY PROFIL</h3></a>
 
         <!-- Isi Biodata Paling Keren di HTML disini -->
 <div class="container">
