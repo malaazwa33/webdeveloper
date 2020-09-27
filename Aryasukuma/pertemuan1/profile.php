@@ -56,32 +56,32 @@
           <tbody>
             <tr>
               <td width="25%" valign="top" class="textt" style="color: rgb(0,0,0); font-weight:bold">Nama</td>
-                <td width="2%">:</td>
+                <td width="2%" style="color: rgb(0,0,0); font-weight:bold">:</td>
                 <td style="color: rgb(0,0,0); font-weight:bold">Arya Kusuma</td>
             </tr>
           <tr>
               <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Jenis Kelamin</td>
-                <td>:</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">:</td>
                 <td style="color: rgb(0,0,0); font-weight:bold">Laki-Laki</td>
             </tr>
           <tr>
               <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Tempat Lahir</td>
-                <td>:</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">:</td>
                 <td style="color: rgb(0,0,0); font-weight:bold">Jakarta</td>
             </tr>
           <tr>
               <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Tanggal Lahir</td>
-                <td>:</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">:</td>
                 <td style="color: rgb(0,0,0); font-weight:bold">11 Maret 2002</td>
             </tr>
           <tr>
               <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Fakultas</td>
-                <td>:</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">:</td>
                 <td style="color: rgb(0,0,0); font-weight:bold">Teknik</td>
             </tr>
           <tr>
               <td valign="top" class="textt" style="color: rgb(0,0,0); font-weight:bold">Prodi</td>
-                <td valign="top">:</td>
+                <td valign="top" style="color: rgb(0,0,0); font-weight:bold">:</td>
                 <td style="color: rgb(0,0,0); font-weight:bold">Teknik Informatika</td>
             </tr>
             <tr>
