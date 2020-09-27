@@ -7,6 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
 
     <title>MY PROFIL</title>
     <style>
@@ -21,7 +22,7 @@
         width: 800px;
         margin: 0 auto;
         margin-top: 70px;
-            box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,.03);
+            box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,.03)t;
     transition: all .3s;
       } 
       .foto {
@@ -32,7 +33,7 @@
     font-weight: 300;
 }
 .biodata {
-    margin-top: 30px;
+    margin-top: 50px;
 }
     </style>
   </head>
@@ -49,6 +50,7 @@
         <img src="image/satria.jpg " alt="" width="200" height="300px">
       </div>
       </div>
+      
       <div class="col-md-8 kertas-biodata">
         <div class="biodata">
         <table width="100%" border="0">
@@ -86,6 +88,15 @@
                 <td valign="top">:</td>
                 <td>Teknik Informatika</td>
             </tr>
+            <div  id="socialicons">
+            <ul>
+            <li>
+            <a class="icon" href="https://m.facebook.com/profile.php" title="Follow with Facebook" target="_blank"><i class="fa fa-facebook" ></i></a>
+            <a class="icon" href="https://Instagram.com/satriaegez" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+            <a class="icon" href="https://web.whatsapp.com/ "title="Follow with WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a>
+            </li>
+            </ul>
+            </div> 
             <tr>
             <td>    <a class="link" href="index.php">Kembali</a></td>
             </tr>
