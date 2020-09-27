@@ -11,7 +11,7 @@
     <title>Profile</title>
     <style>
       body {
-        background-color: #e8e8e8;
+        background-color:"lightblue";
       }
       .kartu {
         width: 600px;
@@ -38,7 +38,7 @@
 
         <!-- Isi Biodata Paling Keren di HTML disini -->
 <div class="container">
-  <div class="card kartu" bg-color="lightblue">
+  <div class="card kartu">
     <div class="row">
       <div class="col-md-4">
       <div class="foto">
