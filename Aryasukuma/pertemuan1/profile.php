@@ -11,9 +11,10 @@
     <title>Profile</title>
     <style>
       body {
-        background-color: #e8e8e8;
+        background-image: url(img/3.jpg);
       }
       .kartu {
+        color:#00FFFF;
         width: 600px;
         margin: 0 auto;
         margin-top: 60px;
@@ -34,7 +35,8 @@
   </head>
   <center>
   <body>
-       <h3 class="text-center text-success mt-3">PROFILE PEMBUAT</h3></a>
+  <body bg-color="lightblue">
+       <h3 class="text-center text-success mt-3" style="color: rgb(0,0,0); font-weight:bold">PROFILE PEMBUAT</h3></a>
 
         <!-- Isi Biodata Paling Keren di HTML disini -->
 <div class="container">
@@ -53,34 +55,34 @@
         <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
           <tbody>
             <tr>
-              <td width="25%" valign="top" class="textt">Nama</td>
+              <td width="25%" valign="top" class="textt" style="color: rgb(0,0,0); font-weight:bold">Nama</td>
                 <td width="2%">:</td>
-                <td style="color: rgb(118, 157, 29); font-weight:bold">Arya Kusuma</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">Arya Kusuma</td>
             </tr>
           <tr>
-              <td class="textt">Jenis Kelamin</td>
+              <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Jenis Kelamin</td>
                 <td>:</td>
-                <td>Laki-Laki</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">Laki-Laki</td>
             </tr>
           <tr>
-              <td class="textt">Tempat Lahir</td>
+              <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Tempat Lahir</td>
                 <td>:</td>
-                <td>Jakarta</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">Jakarta</td>
             </tr>
           <tr>
-              <td class="textt">Tanggal Lahir</td>
+              <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Tanggal Lahir</td>
                 <td>:</td>
-                <td>11 Maret 2002</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">11 Maret 2002</td>
             </tr>
           <tr>
-              <td class="textt">Fakultas</td>
+              <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Fakultas</td>
                 <td>:</td>
-                <td>Teknik</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">Teknik</td>
             </tr>
           <tr>
-              <td valign="top" class="textt">Prodi</td>
+              <td valign="top" class="textt" style="color: rgb(0,0,0); font-weight:bold">Prodi</td>
                 <td valign="top">:</td>
-                <td>Teknik Informatika</td>
+                <td style="color: rgb(0,0,0); font-weight:bold">Teknik Informatika</td>
             </tr>
             <tr>
             <td>    <a class="link" href="index.php">Kembali</a></td>
