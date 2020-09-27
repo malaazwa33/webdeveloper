@@ -8,6 +8,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/png" href="image/icons/index.png"/>
+
     <title>Index</title>
   </head>
   <body id="page-top">
@@ -46,7 +48,7 @@
       <div class="container">
       <h1 class="display-4">SELAMAT DATANG DIWEBSITE PT COVER <br> <span class="font-weight-bold">SATRIA EGEZ</span></h1>
       <hr class="my-4">
-      <p class= "lead">Tutorial Framwork Website Dalam Bahasa Indonesia </p>
+      <p class= "lead">Silahkan Dikunjungi </p>
       <a class="btn btn-primary btn-lg font-weight-bold" href="home.php" role="button">KUNJUNGI</a>
       </div>
       </div>
