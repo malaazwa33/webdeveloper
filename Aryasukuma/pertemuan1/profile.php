@@ -11,9 +11,10 @@
     <title>Profile</title>
     <style>
       body {
-        background-color: #e8e8e8;
+        background-image: url(img/3.jpg);
       }
       .kartu {
+        color:#00FFFF;
         width: 600px;
         margin: 0 auto;
         margin-top: 60px;
