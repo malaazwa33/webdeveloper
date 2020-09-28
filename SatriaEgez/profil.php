@@ -19,9 +19,9 @@
       
       }
       .kartu {
-        width: 800px;
+        width:1000px;
         margin: 0 auto;
-        margin-top: 70px;
+        margin-top: 100px;
             box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,.03)t;
     transition: all .3s;
       } 
@@ -66,7 +66,7 @@
     <div class="row">
       <div class="col-md-4">
       <div class="foto">
-        <img src="image/satria.jpg " alt="" width="200" height="300px">
+        <img src="image/satria.jpg " alt="" width="300px" height="350px">
       </div>
       </div>
       
@@ -107,15 +107,21 @@
                 <td valign="top">:</td>
                 <td>Teknik Informatika</td>
             </tr>
+             <tr>
+              <td valign="top" class="textt"><b>No WA</b></td>
+                <td valign="top">:</td>
+                <td>085333640080</td>
+            </tr>
             <div  id="socialicons">
            
-         <b>  Follow With </b>  <a class="icon" href="https://m.facebook.com/profile.php" title="Follow with Facebook" target="_blank"><i class="fa fa-facebook" ></i></a>
-             <a class="icon" href="https://Instagram.com/satriaegez" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
-          <a class="icon" href="https://web.whatsapp.com/ "title="Follow with WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a>
+           <b>  Follow With </b> <br>
+           <a class="icon" href="https://m.facebook.com/profile.php" title="Follow with Facebook" target="_blank"><i class="fa fa-facebook" ></i></a>
+           <a class="icon" href="https://Instagram.com/satriaegez" title="Follow with Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+           <a class="icon" href="https://web.whatsapp.com/ "title="Follow with WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a>
            
             </div> 
             <tr>
-            <td>    <a class="link" href="index.php">Kembali</a></td>
+            <td> <a class="link" href="index.php">Kembali</a></td>
             </tr>
 
               </center>  
