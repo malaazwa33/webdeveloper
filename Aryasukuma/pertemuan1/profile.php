@@ -1,99 +1,78 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-
-    <title>Profile</title>
-    <style>
-      body {
-        background-image: url(img/4.jpg);
-      }
-      .kartu {
-        color:#00FFFF;
-        width: 600px;
-        margin: 0 auto;
-        margin-top: 60px;
-            box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,.03);
-    transition: all .3s;
-      } 
-      .foto {
-        padding: 20px;
-      }
-      tbody {
-    font-size: 20px;
-    font-weight: 300;
-}
-.biodata {
-    margin-top: 30px;
-}
-    </style>
-  </head>
-  <center>
-  <body>
-  <body bg-color="lightblue">
-       <h3 class="text-center text-success mt-3" style="color: rgb(0,0,0); font-weight:bold">PROFILE PEMBUAT</h3></a>
-
-        <!-- Isi Biodata Paling Keren di HTML disini -->
-<div class="container">
-  <div class="card kartu">
-    <div class="row">
-      <div class="col-md-4">
-      <div class="foto">
-        <img src="img/1.jpg " alt="" width="200" height="300px">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <section>
+    <div>
+      <img id=arya-class src="img/1.jpg">
+    </div>
+    <div>
+      <h1>Arya Kusuma</h1>
+      <p>New Programer</p>
+      <a href="#">Contact</a>
+      <a href="#">Resume</a>
+    </div>
+    <div>
+      <div>
+        <p>Tempat Lahir</p>
+        <p>Jakarta</p>
       </div>
+      <div>
+        <p>Tanggal Lahir</p>
+        <p>11 Maret 2002</p>
       </div>
-      <div class="col-md-8 kertas-biodata">
-        <div class="biodata">
-        <table width="100%" border="0">
-    <tbody><tr>
-        <td valign="top">
-        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
-          <tbody>
-            <tr>
-              <td width="25%" valign="top" class="textt" style="color: rgb(0,0,0); font-weight:bold">Nama</td>
-                <td width="2%" style="color: rgb(0,0,0); font-weight:bold">:</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">Arya Kusuma</td>
-            </tr>
-          <tr>
-              <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Jenis Kelamin</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">:</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">Laki-Laki</td>
-            </tr>
-          <tr>
-              <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Tempat Lahir</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">:</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">Jakarta</td>
-            </tr>
-          <tr>
-              <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Tanggal Lahir</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">:</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">11 Maret 2002</td>
-            </tr>
-          <tr>
-              <td class="textt" style="color: rgb(0,0,0); font-weight:bold">Fakultas</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">:</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">Teknik</td>
-            </tr>
-          <tr>
-              <td valign="top" class="textt" style="color: rgb(0,0,0); font-weight:bold">Prodi</td>
-                <td valign="top" style="color: rgb(0,0,0); font-weight:bold">:</td>
-                <td style="color: rgb(0,0,0); font-weight:bold">Teknik Informatika</td>
-            </tr>
-            <tr>
-            <td>    <a class="link" href="index.php">Kembali</a></td>
-            </tr>
-
-              </center>
-              <div><a href="http://instagram.com/arsksuma_"><img style="margin:5px" src="[img/Instagram-icon.png]" width="30" height="30" alt="Instagram"></a>
-             <a href="http://youtube.com/user/" ><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="YouTube"></a></div>
-
-          
-           
-                
-              </body>
-              </html>
+      <div>
+        <p>Umur</p>
+        <p>18</p>
+      </div>
+      <div>
+        <p>Hobi</p>
+        <p>Game</p>
+      </div>
+      <div>
+        <p>Email</p>
+        <p>array</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <form method="#" action="#">
+      <div>
+        <label>Nama</label>
+        <input type="text" name="nama" 
+        placeholder="Masukan Nama Anda">
+      </div>
+      <div>
+        <label>Role</label>
+        <input type="text" name="role">
+      </div>
+      <div>
+        <label>Tempat Lahir</label>
+        <input type="text" name="tempatlahir">
+      </div>
+      <div>
+        <label>Tanggal Lahir</label>
+        <input type="text" name="tanggallahir">
+      </div>
+      <div>
+        <label>Umur</label>
+        <input type="number" name="umur">
+      </div>
+      <div>
+        <label>Hobi</label>
+        <input type="text" name="hobi">
+      </div>
+      <div>
+        <label>Email</label>
+        <input type="email" name="email">
+      </div><div>
+        <input type="submit" name="submit" valeu="SUBMIT">
+      </div>
+    </from>
+  </section>
+  
+</body>
+</html>
