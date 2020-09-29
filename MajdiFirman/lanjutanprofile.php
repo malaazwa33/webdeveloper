@@ -9,6 +9,44 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
     <title>Top Up Diamond Game Online</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+</style>
   </head>
   <body>
     <div>
@@ -32,22 +70,29 @@
         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
       </li>
     </ul>
+
   </div>
 </nav>
     </div>
-    <div class="container mt-">
+    <h3 style="text-align:center">Profile Founder</h3>
+
+<div class="card">
+  <img src="Folder/profile.jpg" alt="John" style="width:100%">
+  <h5>M. Majdi Firman Hafsyah</h5>
+  
+  <p class="title"> Founder EMstore</p>
+  <h6>18 years old</h6>
+  <p>Hamzanwady University</p>
+
+  <div style="margin: 24px 0;">
+    <a><b>Email:</b> majdif.hafsyah.gmail.com</a>
    
-        <div class="card" style="width: 18rem;">
-  <img src="Folder/profile.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Majdi Firman</h5>
-    <p class="card-text"> Profile Founder EMstore </p>
-    <a href="lanjutanprofile.php" class="btn btn-primary">Telusuri Lebih Lanjut</a>
   </div>
+  <p><button>Contact</button></p>
 </div>
   
-    
-    </div>
+  
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
