@@ -54,7 +54,7 @@
       <td >Paket <?php echo $i ?></td> 
       <td>
       <?php
-if ($i == "14") {
+if ($i == "14"| $i == "15"| $i == "16") {
   echo "<p style='color:red;'>Kosong</p>";
 } else {
   echo "<p style='color:blue;' >Tersedia</p>";
