@@ -2,6 +2,19 @@
 <html>
 <head>
   <title>Document</title>
+  <style>
+    section#box-profile{
+      position: relative;
+      width: 80%;
+      min-height: 250px;
+      margin-left: 10%;
+      margin-right: 10%;
+      margin-top: 60px;
+      border-radius: 6px;
+      background-color: #fff;
+      box-shadow: 0 0 7px 0px rgba(136, 136, 136, 0.2)
+    }
+  </style>
   <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
@@ -14,40 +27,40 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav ml-auto">
     <li class="nav-item">
-        <a class="nav-link" href="prudoct.php">Back <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="prudoct.php">Back</a>
       </li>
   </div>
 </nav>
-  <section>
-    <div>
-      <img id=arya-class src="img/1.jpg">
+  <section id="box-profile">
+    <div class="img-profile">
+      <div class="photo" style="background-image:url(img/1.jpg)"></div>  
     </div>
-    <div>
+    <div class="description">
       <h1>Arya Kusuma</h1>
       <p>New Programer</p>
-      <a href="#">Contact</a>
-      <a href="#">Resume</a>
+      <a href="#" class="button bg-green">Contact</a>
+      <a href="#" class="button border-blue">Resume</a>
     </div>
-    <div>
-      <div>
-        <p>Tempat Lahir</p>
-        <p>Jakarta</p>
+    <div class="information">
+      <div class="data">
+        <p class="field">Tempat Lahir</p>
+        <p class="text-gray">Jakarta</p>
       </div>
-      <div>
-        <p>Tanggal Lahir</p>
-        <p>11 Maret 2002</p>
+      <div class="data">
+        <p class="field">Tanggal Lahir</p>
+        <p class="text-gray">11 Maret 2002</p>
       </div>
-      <div>
-        <p>Umur</p>
-        <p>18</p>
+      <div class="data">
+        <p class="field">Umur</p>
+        <p class="text-gray">18</p>
       </div>
-      <div>
-        <p>Hobi</p>
-        <p>Game</p>
+      <div class="data">
+        <p class="field">Hobi</p>
+        <p class="text-gray">Game</p>
       </div>
-      <div>
-        <p>Email</p>
-        <p>array</p>
+      <div class="data">
+        <p class="field">Email</p>
+        <p class="text-gray">array</p>
       </div>
     </div>
   </section>
