@@ -7,7 +7,12 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
+    <link rel="icon" type="image/png" href="image/icons/favicon.ico"/>
+    <style>
+    body{
+      background-image: url(image/bg-01.jpg)
+    }
+    </style>
     <title>Home</title>
   </head>
   <body id="page-top">
