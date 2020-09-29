@@ -16,6 +16,7 @@
       }
       h3{
         font-family: "Times New Roman", Times, serif;
+
       
       }
       .kartu {
