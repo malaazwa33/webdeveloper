@@ -10,43 +10,7 @@
 
     <title>Top Up Diamond Game Online</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
-  margin: auto;
-  text-align: center;
-  font-family: arial;
-}
 
-.title {
-  color: grey;
-  font-size: 18px;
-}
-
-button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
-}
-
-a {
-  text-decoration: none;
-  font-size: 22px;
-  color: black;
-}
-
-button:hover, a:hover {
-  opacity: 0.7;
-}
-</style>
   </head>
   <body>
     <div>
@@ -74,23 +38,67 @@ button:hover, a:hover {
   </div>
 </nav>
     </div>
-    <h3 style="text-align:center">Profile Founder</h3>
-
-<div class="card">
-  <img src="Folder/profile.jpg" alt="John" style="width:100%">
-  <h5>M. Majdi Firman Hafsyah</h5>
-  
-  <p class="title"> Founder EMstore</p>
-  <h6>18 years old</h6>
-  <p>Hamzanwady University</p>
-
-  <div style="margin: 24px 0;">
-    <a><b>Email:</b> majdif.hafsyah.gmail.com</a>
-   
+    
+    <div class="container">
+  <div class="card kartu">
+    <div class="row">
+      <div class="col-md-4">
+      <div class="foto">
+        <img src="foto/bayuafrizatulrizki.jpg" alt="" width="200" height="auto">
+      </div>
+      </div>
+      <div class="col-md-8 kertas-biodata">
+        <div class="biodata">
+        <table width="100%" border="0">
+    <tbody><tr>
+        <td valign="top">
+        <table border="0" width="100%" style="padding-left: 2px; padding-right: 13px;">
+          <tbody>
+            <tr>
+              <td width="25%" valign="top" class="textt">Nama</td>
+                <td width="2%">:</td>
+                <td style="color: rgb(118, 157, 29); font-weight:bold">Bayu Afrizatul Rizki</td>
+            </tr>
+          <tr>
+              <td class="textt">Jenis Kelamin</td>
+                <td>:</td>
+                <td>Laki-Laki</td>
+            </tr>
+          <tr>
+              <td class="textt">Tempat Lahir</td>
+                <td>:</td>
+                <td>Airmolek,Riau</td>
+            </tr>
+          <tr>
+              <td class="textt">Tanggal Lahir</td>
+                <td>:</td>
+                <td>31/08/1997</td>
+            </tr>
+          <tr>
+              <td class="textt">Fakultas</td>
+                <td>:</td>
+                <td>Teknik</td>
+            </tr>
+          <tr>
+              <td valign="top" class="textt">Prodi</td>
+                <td valign="top">:</td>
+                <td>Teknik Informatika</td>
+            </tr>
+            <tr>
+              <td valign="top" class="textt">Blog</td>
+                <td valign="top">:</td>
+                <td>www.kochengoren.net</td>
+            </tr>
+        </tbody></table>
+        </td>
+    </tr>
+    </tbody></table>
   </div>
-  <p><button>Contact</button></p>
+      </div>
+    </div>
+  </div>
 </div>
-  
+    <script src="js/bootstrap.min.js"></script>
   
 
     <!-- Optional JavaScript -->
