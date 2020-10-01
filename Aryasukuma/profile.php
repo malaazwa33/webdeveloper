@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Document</title>
+  <title>BIODATA</title>
   <style>;
   </style>
   <link rel="stylesheet" href="css/bootstrap.min.css">

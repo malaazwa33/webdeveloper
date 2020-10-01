@@ -22,7 +22,7 @@
         <a class="nav-link" href="product.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Sad</a>
+        <a class="nav-link" href="home.php">Sad</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="harga.php">Bucin</a>
@@ -60,6 +60,7 @@
       <th scope="col">Jenis</th>
       <th scope="col">Status</th>
       <th scope="col">Handle</th>
+      <th href="tambah.php" class="btn btn-success">Tambah Data</th>
     </tr>
   </thead>
   <tbody>

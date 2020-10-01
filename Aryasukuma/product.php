@@ -22,7 +22,7 @@
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Sad</a>
+        <a class="nav-link" href="home.php">Sad</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="harga.php">Bucin</a>
