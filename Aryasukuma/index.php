@@ -21,7 +21,7 @@
     <br>
 
     <div class="col-md-5">
-        <a href="product.php" class="btn btn-primary">Login</a>
+        <a href="product.php" class="btn btn-success">Login</a>
     </div>
     </div>
     </div>
