@@ -57,7 +57,7 @@
 if ($i == "14"| $i == "15"| $i == "16") {
   echo "<p style='color:red;'>Kosong</p>";
 } else {
-  echo "<p style='color:blue;' >Tersedia</p>";
+  echo "<p style='color:blue;'>Tersedia</p>";
 }
 ?></td>
        <td>Rp.</td>
