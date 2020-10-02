@@ -6,6 +6,11 @@
     <title>TAKE ME OUT</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+      body{
+        background-image: url('img/5.jpg');
+      }
+    </style>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">

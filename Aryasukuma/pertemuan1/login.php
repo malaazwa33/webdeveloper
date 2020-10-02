@@ -3,6 +3,11 @@
 <head>
     <title>Login</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+      body{
+        background-image: url('img/5.jpg');
+      }
+    </style>
 </head>
 <body>
     <div class="container">

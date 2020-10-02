@@ -2,9 +2,12 @@
 <html>
 <head>
   <title>BIODATA</title>
-  <style>;
-  </style>
   <link rel="stylesheet" href="css/bootstrap.min.css">
+  <style>
+      body{
+        background-image: url('img/5.jpg');
+      }
+    </style>
 </head>
 <body>
 
@@ -27,9 +30,9 @@
 </div>
 <div class="container">
 <div class="row mt-3">
-<div class="container card" style="width: 27rem;">
+<div class="container card" style="width: 27rem;" style="box-shadow: 3px">
 <div class="text-white bg-success">
-  <img src="img/1.jpg" class="card-img-top" alt="...">
+  <img src="img/1.jpg" class="card-img-top" width="30%" height="40%" alt="...">
   <div class="card-body">
     <h3 class="card-title"> Arya Kusuma </h3>
     <p class="card-text"><b>Alamat : Lendang Bedurik, Sandubaya, Selong</p></b>
