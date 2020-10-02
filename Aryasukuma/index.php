@@ -7,8 +7,8 @@
       body{
         background-image: url('img/5.jpg');
       }
-      .container{
-          shadow: 100px;  
+      .container .card{
+          box-shadow: 0 0 10px 10px rgba(100, 100, 100, 0.26);  
       }
     </style>
 </head>
