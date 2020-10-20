@@ -1,8 +1,6 @@
 package main
 
-import (
-	"log"
-)
+import "log"
 
 //Car : struct => for saving data Car
 type Car struct {
