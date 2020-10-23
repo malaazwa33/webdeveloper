@@ -1,0 +1,1 @@
+Because you have email privacy enabled, malaazwa33@gmail.com will be used for account-related notifications as well as password resets. 71887864+malaazwa33@users.noreply.github.com will be used for web-based Git operations, e.g., edits and merges.
